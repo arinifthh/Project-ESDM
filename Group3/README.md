@@ -1,4 +1,4 @@
-# Group 3: Business Application integration to SAP Analytics Cloud and SAP Cloud SDK
+# Group 3: Business Application integration to SAP Analytics Cloud & SAP Cloud SDK
 
 ## Overview
 Group 3 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
