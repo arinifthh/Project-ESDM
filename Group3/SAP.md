@@ -28,10 +28,10 @@
     </tr>
     <tr>
         <td>1.</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
+        <td>28/10/2024</td>
+        <td>Nur Arini</td>
+        <td>Research on Business application integration to SAP Analytics Cloud</td>
+        <td>https://help.sap.com/docs/SAC_EMBEDDED_EDITION/8c9fe042688a4354876cc536267d442f/de90cadb084846dfbb28188f1d1059cd.html
         </td>
     </tr>
 </table>
